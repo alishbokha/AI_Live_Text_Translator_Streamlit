@@ -1,0 +1,5 @@
+streamlit>=1.40
+torch
+transformers>=4.45
+sentencepiece>=0.2.0
+langdetect>=1.0.9
